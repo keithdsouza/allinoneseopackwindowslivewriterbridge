@@ -1,0 +1,3 @@
+Windows Live Writer users are unable to specify custom fields, making the user visit WordPress dashboard to specify SEO parameters if they also use the ALL in One SEO Pack plugin, this is a inconvenience as it requires users to perform multiple actions for a single post.
+
+The All In One SEO Pack Windows Live Writer Bridge bridges that gap, by allowing users to specify All in One SEO pack details from Windows Live Writer itself
